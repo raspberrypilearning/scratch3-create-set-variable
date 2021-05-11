@@ -1,59 +1,22 @@
-## Introduction
+Click on **Variables** in the Code tab, then click on **Make a Variable**.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+![Variable blocks](images/make-a-variable.png)
 
-### What you will make
+Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![Create variable](images/name-variable.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+The variable will show on the Stage:
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![Variable on the stage](images/stage-total.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+If you want to hide the variable on the Stage, uncheck the box next to the variable in the `Variables`{:class="block3variables"} blocks menu.
 
-+ A computer or tablet capable of running Scratch 3
+## Setting a start value
 
-### Software
+If your variable should have the same starting value every time your project is run, then add a script to set it:
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+```blocks3
+when flag clicked
+set [total v] to [0]
+```  
