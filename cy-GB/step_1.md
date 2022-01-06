@@ -1,20 +1,20 @@
-Click on **Variables** in the Code tab, then click on **Make a Variable**.
+Clicia ar **Newidynnau** yn y tab Côd, yna clicia ar **Creu Newidyn**.
 
-![Variable blocks](images/make-a-variable.png)
+![Blociau amrywiol](images/make-a-variable.png)
 
-Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
+Teipia enw dy newidyn. Mae modd i ti ddewis os wyt ti eisiau i dy newidyn fod ar gael i'r corluniau i gyd, neu dim ond y corlun yma. Clicia **Iawn**.
 
-![Create variable](images/name-variable.png)
+![Creu newidyn](images/name-variable.png)
 
-The variable will show on the Stage:
+Bydd y newidyn yn ymddangos ar y Llwyfan:
 
-![Variable on the stage](images/stage-total.png)
+![Newidiannau ar y llwyfan](images/stage-total.png)
 
-If you want to hide the variable on the Stage, uncheck the box next to the variable in the `Variables`{:class="block3variables"} blocks menu.
+Os wyt ti am guddio'r newidyn ar y Llwyfan, dad-dicia'r blwch wrth ymyl y newidyn yn y ddewislen blociau `Newidynnau`{:class="block3variables"}.
 
-## Setting a start value
+## Gosod gwerth cychwynnol
 
-If your variable should have the same starting value every time your project is run, then add a script to set it:
+Os dylai dy newidyn gael yr un gwerth cychwynnol bob tro mae dy brosiect yn cael ei redeg, yna ychwanega sgript i'w osod:
 
 ```blocks3
 when flag clicked
