@@ -18,5 +18,5 @@ Als jouw variabele elke keer dat je project wordt uitgevoerd dezelfde startwaard
 
 ```blocks3
 when flag clicked
-set [total v] to [0]
+set [totaal v] to [0]
 ```  
