@@ -1,20 +1,20 @@
-Click on **Variables** in the Code tab, then click on **Make a Variable**.
+Klik op **Variabelen** in het Code tabblad en klik vervolgens op **Maak een variabele**.
 
-![Variable blocks](images/make-a-variable.png)
+![Variabele blokken](images/make-a-variable.png)
 
-Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
+Typ de naam van je variabele in. Je kunt kiezen of je wilt dat je variabele beschikbaar is voor alle sprites of alleen voor deze sprite. Klik op **OK**.
 
-![Create variable](images/name-variable.png)
+![Maak een variabele](images/name-variable.png)
 
-The variable will show on the Stage:
+De variabele wordt op het Speelveld weergegeven:
 
-![Variable on the stage](images/stage-total.png)
+![Variabele op het Speelveld](images/stage-total.png)
 
-If you want to hide the variable on the Stage, uncheck the box next to the variable in the `Variables`{:class="block3variables"} blocks menu.
+Als je de variabele in het Speelveld wilt verbergen, schakel je het selectievakje naast de variabele in het `Variabelen`{:class="block3variables"} blok uit.
 
-## Setting a start value
+## Een startwaarde instellen
 
-If your variable should have the same starting value every time your project is run, then add a script to set it:
+Als jouw variabele elke keer dat je project wordt uitgevoerd dezelfde startwaarde moet hebben, voeg dan een script toe om het in te stellen:
 
 ```blocks3
 when flag clicked
