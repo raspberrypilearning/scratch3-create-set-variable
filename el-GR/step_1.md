@@ -1,20 +1,20 @@
-Click on **Variables** in the Code tab, then click on **Make a Variable**.
+Κάνε κλικ στις **Μεταβλητές** στην καρτέλα Κώδικας και, στη συνέχεια, κάνε κλικ στη **Δημιουργία Μεταβλητής**.
 
-![Variable blocks](images/make-a-variable.png)
+![Μπλοκ μεταβλητής](images/make-a-variable.png)
 
-Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
+Πληκτρολόγησε το όνομα της μεταβλητής σου. Μπορείς να επιλέξεις αν θέλεις η μεταβλητή σου να είναι διαθέσιμη σε όλα τα αντικείμενα ή μόνο σε αυτό το αντικείμενο. Πάτησε **ΟΚ**.
 
-![Create variable](images/name-variable.png)
+![Δημιούργησε μεταβλητή](images/name-variable.png)
 
-The variable will show on the Stage:
+Η μεταβλητή θα εμφανιστεί στη Σκηνή:
 
-![Variable on the stage](images/stage-total.png)
+![Μεταβλητή στη σκηνή](images/stage-total.png)
 
-If you want to hide the variable on the Stage, uncheck the box next to the variable in the `Variables`{:class="block3variables"} blocks menu.
+Εάν θέλεις να κρύψεις τη μεταβλητή από τη Σκηνή, ακύρωσε την επιλογή του πλαισίου δίπλα από τη μεταβλητή σου στο μενού `Μεταβλητές`{:class="block3variables"}.
 
-## Setting a start value
+## Ορισμός αρχικής τιμής
 
-If your variable should have the same starting value every time your project is run, then add a script to set it:
+Εάν η μεταβλητή σου πρέπει να έχει την ίδια αρχική τιμή κάθε φορά που εκτελείται το έργο σου, τότε πρόσθεσε ένα script για να το καθορίσεις:
 
 ```blocks3
 when flag clicked
