@@ -1,20 +1,20 @@
-Click on **Variables** in the Code tab, then click on **Make a Variable**.
+انقر فوق **المتغيرات** في علامة تبويب النصوص البرمجية، ثم انقر فوق **إنشاء متغير**.
 
-![Variable blocks](images/make-a-variable.png)
+![قوالب المتغير](images/make-a-variable.png)
 
-Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
+قم بكتابة اسم للمتغير. يمكنك اختيار ما إذا كنت تريد هذا المتغير أن يكون متاح لجميع الكائنات، أو فقط لهذا المتغير. اضغط على **موافق**.
 
-![Create variable](images/name-variable.png)
+![إنشاء متغير](images/name-variable.png)
 
-The variable will show on the Stage:
+سيظهر المتغير على المنصة:
 
-![Variable on the stage](images/stage-total.png)
+![المتغير على المنصة](images/stage-total.png)
 
-If you want to hide the variable on the Stage, uncheck the box next to the variable in the `Variables`{:class="block3variables"} blocks menu.
+إذا كنت تريد إخفاء المتغير على المنصة، فقم بإلغاء تحديد المربع المجاور للمتغير في كتل القائمة `المتغيرات`{:class="block3variables"}.
 
-## Setting a start value
+## تحديد قيمة البداية
 
-If your variable should have the same starting value every time your project is run, then add a script to set it:
+إذا كان يجب أن يكون للمتغير الخاص بك نفس قيمة البداية في كل مرة يتم فيها تشغيل مشروعك ، فقم بإضافة نص برمجي لتعيينه:
 
 ```blocks3
 when flag clicked
