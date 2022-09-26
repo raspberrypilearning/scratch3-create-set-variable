@@ -1,20 +1,20 @@
-Click on **Variables** in the Code tab, then click on **Make a Variable**.
+コードタブから**変数**をクリックし、**変数を作る**をクリックします。
 
-![Variable blocks](images/make-a-variable.png)
+![変数ブロック](images/make-a-variable.png)
 
-Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
+変数の名前を入力します。 作った変数をすべてのスプライトで使うか、このスプライトのみで使うかを選べます。 **OK**をクリックします。
 
-![Create variable](images/name-variable.png)
+![変数を作成する](images/name-variable.png)
 
-The variable will show on the Stage:
+作成した変数がステージ上に表示されます。
 
-![Variable on the stage](images/stage-total.png)
+![ステージ上での変数](images/stage-total.png)
 
-If you want to hide the variable on the Stage, uncheck the box next to the variable in the `Variables`{:class="block3variables"} blocks menu.
+ステージで変数を非表示にする場合は、 `変数`{:class="block3variables"}ブロックメニューで変数の横にあるボックスのチェックをはずします。
 
-## Setting a start value
+## 初期値の設定
 
-If your variable should have the same starting value every time your project is run, then add a script to set it:
+プロジェクトを実行した時にいつも変数が同じ初期値を持つようにしたい場合は、スクリプトを追加して値を設定します。
 
 ```blocks3
 when flag clicked
