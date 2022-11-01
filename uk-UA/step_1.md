@@ -1,20 +1,20 @@
-Click on **Variables** in the Code tab, then click on **Make a Variable**.
+Натисни на розділ **Змінні** у вкладці Код, потім натисни **Створити змінну**.
 
-![Variable blocks](images/make-a-variable.png)
+![Блоки Змінні](images/make-a-variable.png)
 
-Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
+Введи ім'я своєї змінної. В тебе є вибір: твоя змінна може бути доступною для всіх спрайтів, або тільки для цього конкретного спрайта. Натисни **Гаразд**.
 
-![Create variable](images/name-variable.png)
+![Створити змінну](images/name-variable.png)
 
-The variable will show on the Stage:
+Змінна з'явиться на Сцені:
 
-![Variable on the stage](images/stage-total.png)
+![Змінна на Сцені](images/stage-total.png)
 
-If you want to hide the variable on the Stage, uncheck the box next to the variable in the `Variables`{:class="block3variables"} blocks menu.
+Якщо ти хочеш сховати змінну на Сцені, прибери галочку навпроти змінної в меню блоків `Змінні`{:class="block3variables"}.
 
-## Setting a start value
+## Встановлення початкового значення
 
-If your variable should have the same starting value every time your project is run, then add a script to set it:
+Якщо твоя змінна повинна мати однакове початкове значення при кожному запуску проєкту, додай скрипт для її встановлення:
 
 ```blocks3
 when flag clicked
