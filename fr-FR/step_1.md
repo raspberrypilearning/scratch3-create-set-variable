@@ -2,7 +2,7 @@ Clique sur **Variables** dans l'onglet Code, puis clique sur **Créer une variab
 
 ![Blocs variables](images/make-a-variable.png)
 
-Tape le nom de ta variable. Tu peux choisir si ta variable est disponible pour tous les sprites ou seulement pour celui ci. Appuie sur **OK**.
+Tape le nom de ta variable. Tu peux choisir si ta variable est disponible pour tous les sprites ou seulement pour celui-ci. Appuie sur **OK**.
 
 ![Créer une variable](images/name-variable.png)
 
