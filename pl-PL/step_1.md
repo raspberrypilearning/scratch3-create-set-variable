@@ -1,20 +1,20 @@
-Click on **Variables** in the Code tab, then click on **Make a Variable**.
+Kliknij na **Zmienne** w zakładce Kod, następnie kliknij na **Stwórz zmienną**.
 
-![Variable blocks](images/make-a-variable.png)
+![Bloki zmiennej](images/make-a-variable.png)
 
-Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
+Wpisz nazwę swojej zmiennej. Możesz zdecydować czy zmienna będzie dostępna dla wszystkich duszków, czy tylko dla tego duszka. Kliknij **OK**.
 
-![Create variable](images/name-variable.png)
+![Utwórz zmienną](images/name-variable.png)
 
-The variable will show on the Stage:
+Zmienna pojawi się na ekranie:
 
-![Variable on the stage](images/stage-total.png)
+![Zmienna na planszy](images/stage-total.png)
 
-If you want to hide the variable on the Stage, uncheck the box next to the variable in the `Variables`{:class="block3variables"} blocks menu.
+Jeśli chcesz ukryć zmienną, odznacz pole obok zmiennej w menu bloków `Zmienne`{:class="block3variables"}.
 
-## Setting a start value
+## Ustawianie wartości początkowej
 
-If your variable should have the same starting value every time your project is run, then add a script to set it:
+Jeśli zmienna powinna mieć tę samą wartość początkową przy każdym uruchomieniu projektu, dodaj skrypt, aby ją ustawić:
 
 ```blocks3
 when flag clicked
