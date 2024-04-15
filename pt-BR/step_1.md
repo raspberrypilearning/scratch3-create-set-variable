@@ -1,20 +1,20 @@
-Click on **Variables** in the Code tab, then click on **Make a Variable**.
+Clique em **Variáveis** no menu de blocos, então clique no botão **Criar uma Variável**.
 
-![Variable blocks](images/make-a-variable.png)
+![Blocos de variável](images/make-a-variable.png)
 
-Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
+Digite o nome da sua variável. Você pode escolher se quer que sua variável esteja disponível para todos os atores ou apenas para este ator. Clique em **OK**.
 
-![Create variable](images/name-variable.png)
+![Criar variável](images/name-variable.png)
 
-The variable will show on the Stage:
+A variável aparecerá no Palco:
 
-![Variable on the stage](images/stage-total.png)
+![Variável no palco](images/stage-total.png)
 
-If you want to hide the variable on the Stage, uncheck the box next to the variable in the `Variables`{:class="block3variables"} blocks menu.
+Se quiser ocultar a variável no Palco, desmarque a caixa ao lado da variável no menu de blocos `Variáveis`{:class="block3variables"}.
 
-## Setting a start value
+## Definindo um valor inicial
 
-If your variable should have the same starting value every time your project is run, then add a script to set it:
+Se sua variável deve ter o mesmo valor inicial toda vez que seu projeto é executado, adicione um script para defini-la:
 
 ```blocks3
 when flag clicked
